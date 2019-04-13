@@ -3,8 +3,7 @@
 Practica Web Scraping.
 Ver Wiki
 COMPONENTES DEL EQUIPO
-1.- an Lopez Baltasar
-1.- Ivan Lopez Baltasar
+1.- Ivan Lopez-Baltasar Benito
 2.- David Quiles Gomez
 RELACION DE FICHEROS DE LA ENTREGA
 1.- FindMyCar_20190411182730.csv. Fichero CSV con el resultado obtenido al ejecugtar el codigo
